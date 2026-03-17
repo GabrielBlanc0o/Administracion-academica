@@ -1,3 +1,5 @@
+nombre = input("Ingrese el nombre del estudiante: ")
+
 nota=[]
 x=0
 y=0
